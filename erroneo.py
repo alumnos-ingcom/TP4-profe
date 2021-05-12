@@ -1,1 +1,1 @@
-print "este es un error!"
+print("este es un error!")
